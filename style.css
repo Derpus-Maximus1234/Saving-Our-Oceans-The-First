@@ -1,0 +1,78 @@
+*{
+	box-sizing: border-box;
+	
+}
+
+body{
+	background-color: #3CA1C3;
+	margin: 0;
+	font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+}
+
+.headbanner{
+	font-family: "Brush Script MT", cursive !important;
+	text-align: center;
+	background: blue;
+	color: white;
+	font-weight: bold;
+	margin-bottom: 50px;
+	padding: 1rem;
+	font-size: clamp(2rem, 5vw, 4rem);
+}
+
+.paragraph1{
+	color: white;
+	font-size: clamp(1rem, 3vw, 1.5rem);
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+}
+
+.paragraph2{
+	color: white;
+	font-size: clamp(1rem, 3vw, 1.5rem);
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+}
+
+.paragraph3{
+	color: white;
+	font-size: clamp(1rem, 3vw, 1.5rem);
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+}
+
+.paragraph4{
+	color: white;
+	font-size: clamp(1rem, 3vw, 1.5rem);
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+}
+
+.paragraph5{
+	color: white;
+	font-size: clamp(1rem, 3vw, 1.5rem);
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+}
+
+.turtleimg {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+}
+
+.turtleimg img {
+    max-width: 90%;
+    width: 400px;
+    height: auto;
+}
